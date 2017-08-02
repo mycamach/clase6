@@ -62,6 +62,20 @@ ul {
 	box-sizing: border-box;
 }
 
+.col-i3 {
+
+	width: 30%; 
+	float: left;
+
+}
+
+
+.col-i4 {
+
+	width: 70%;
+	float: left;
+
+}
 
 .col-s1 {
 
@@ -84,6 +98,7 @@ ul {
 	display: inline-block;
 	float: left;
 	margin-right: 5px;
+	margin-bottom: 5px;
 	padding: 1%; 
 	background-color: rgb(169, 0, 0);
 	color: white;
@@ -132,5 +147,6 @@ h1 {
 
 	padding: 20px;
 	border-top: 1px solid grey; 
+
 }
 
