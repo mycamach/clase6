@@ -7,6 +7,8 @@ body {
 .header {
 
 	width: 100%;
+	border-bottom: 1px solid grey;
+	text-align: center;
 
 
 }
@@ -20,12 +22,14 @@ clear: both;
 .col-m1 {
 
 	width:60%;
+	float: left;
 
 }
 
 .col-m2 {
 
 	width: 40%;
+	float: left;
 }
 
 .col-i1 {
@@ -49,4 +53,25 @@ clear: both;
 
 	max-width: 100%;
 }
+
+.no-bullets {
+
+	list-style-type: none;
+}
+
+.hobbies li {
+
+	display: inline-block;
+}
+
+h1 {
+
+	color: #e60c0c;
+}
+
+#python
+#html
+#css
+#js
+#php
 
