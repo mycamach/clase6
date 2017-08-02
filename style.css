@@ -6,7 +6,7 @@ body {
 
 ul {
 
-	padding-left: 20px;
+	padding-left: 30px;
 }
 
 .header {
@@ -27,7 +27,7 @@ ul {
 
 .row {
 
-clear: both;
+	clear: both;
 
 }
 
@@ -35,7 +35,7 @@ clear: both;
 
 	width:60%;
 	float: left;
-	padding: 10px;
+	padding-right: 30px;
 	box-sizing: border-box;
 
 }
@@ -50,6 +50,8 @@ clear: both;
 .col-i1 {
 
 	width: 25%;
+	float: left;
+	box-sizing: border-box;
 }
 
 
@@ -57,6 +59,7 @@ clear: both;
 
 	width: 75%;
 	float: left;
+	box-sizing: border-box;
 }
 
 
