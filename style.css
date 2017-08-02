@@ -1,0 +1,52 @@
+body {
+
+	font-family: 'Source Sans Pro', sans-serif;
+	margin:0;
+}
+
+.header {
+
+	width: 100%;
+
+
+}
+
+.row {
+
+clear: both;
+
+}
+
+.col-m1 {
+
+	width:60%;
+
+}
+
+.col-m2 {
+
+	width: 40%;
+}
+
+.col-i1 {
+
+	width: 15%;
+}
+
+
+.col-i2 {
+
+	width: 75%;
+}
+
+
+.col-s1 {
+
+	max-width: 100%;
+}
+
+.col-s2 {
+
+	max-width: 100%;
+}
+
