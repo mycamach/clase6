@@ -89,23 +89,10 @@ ul {
 
 }
 
+.col-i5 {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	width: 100%;
+}
 
 .no-bullets {
 
@@ -167,10 +154,11 @@ h1 {
 
 	padding: 20px;
 	border-top: 1px solid grey; 
+	text-align: right;
 
 }
 
 .star {
-	width: 100%;
-	display: block
+	
+	display: inline-block;
 }
