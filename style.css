@@ -119,6 +119,11 @@ h1 {
 	color: #e60c0c;
 }
 
+.gris {
+
+	background-color: lightgrey;
+}
+
 .rojo {
 
 	background-color: rgb(169, 0, 0);
@@ -161,14 +166,19 @@ h1 {
 
 }
 
-.star {
-	
-	display: inline;
-	float: right;
-}
 
 .en {
 
-	display: inline;
 	border-bottom: 1px solid lightgrey;
+}
+
+.es {
+
+	border-bottom: 1px solid lightgrey;
+}
+
+.pt {
+
+	border-bottom: 1px solid lightgrey;
+	padding: 5px;
 }
