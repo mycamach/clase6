@@ -45,6 +45,7 @@ ul {
 	float: left;
 	padding-right: 30px;
 	box-sizing: border-box;
+	text-align: justify;
 
 }
 
@@ -62,6 +63,7 @@ ul {
 	width: 10%;
 	float: left;
 	box-sizing: border-box;
+	padding-left: 10px;
 }
 
 
@@ -77,6 +79,7 @@ ul {
 	width: 20%; 
 	float: left;
 	box-sizing: border-box;
+	padding-left: 15px;
 
 }
 
@@ -160,5 +163,12 @@ h1 {
 
 .star {
 	
-	display: inline-block;
+	display: inline;
+	float: right;
+}
+
+.en {
+
+	display: inline;
+	border-bottom: 1px solid lightgrey;
 }
