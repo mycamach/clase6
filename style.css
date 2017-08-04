@@ -145,7 +145,7 @@ ul {
 	display: inline-block;
 	float: left;
 	margin-right: 0.5vw;
-	margin-bottom: 0.5vw;
+	margin-bottom: 3vw;
 	padding: 1%; 
 	background-color: rgb(169, 0, 0);
 	color: white;
@@ -273,6 +273,7 @@ h1 {
 
 	width: 80vw;
 	box-sizing: border-box;
+	margin-bottom: 5vw;
 }
 
 .col-i1-s {
@@ -314,5 +315,4 @@ h1 {
 	margin-bottom: 3vw;
 
 }
-
 }
