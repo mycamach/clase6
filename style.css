@@ -61,7 +61,8 @@ ul {
 
 .stargroup {
 
-	margin-right: 10vw; 
+	margin-left: 0; 
+	float: right;
 }
 
 
