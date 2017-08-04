@@ -30,7 +30,7 @@ ul {
 
 }
 
-#me {
+.me {
 
 	max-width: 15%;
 	border-radius: 100px;
@@ -231,11 +231,24 @@ h1 {
 
 @media (max-width: 480px) {
 
-body {
+.me-s {
 
-	margin: 0;
+	max-width: 25%;
+	border-radius: 100px;
+	margin-top:10%; 
+	
 }
 
+.header {
+
+	width: 80vw;
+	border-bottom: 1px solid grey;
+	text-align: center;
+	font-size: 6vh;
+	font-weight: bold;
+	margin-left: 10%
+
+}
 
 .col-s1 {
 
