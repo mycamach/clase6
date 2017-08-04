@@ -14,6 +14,11 @@ ul {
 	font-weight: bold;
 }
 
+.block {
+
+	display: block;
+}
+
 .header {
 
 	width: 100%;
@@ -29,6 +34,11 @@ ul {
 	width: 15%;
 	border-radius: 100px;
 	
+}
+
+.exp {
+
+	margin-top: 25%;
 }
 
 .clearfix {
@@ -201,6 +211,12 @@ h1 {
 
 @media (max-width: 480px) {
 
+body {
+
+	margin: 0;
+}
+
+
 .col-s1 {
 
 	max-width:85%;
@@ -221,6 +237,30 @@ h1 {
 	width: 85%;
 	float: left;
 	box-sizing: border-box;
+}
+
+.col-i1-s {
+
+	width: 10%;
+	float: left;
+	box-sizing: border-box;
+}
+
+.col-i2-s {
+
+	max-width: 90%;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 3vw; 
+
+}
+
+.col-i3-s {
+
+	width: 20%; 
+	float: left;
+	box-sizing: border-box; 
+
 }
 
 }
